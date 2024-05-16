@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212434017700",
+    "project_id": "rollapp-fb13b",
+    "storage_bucket": "rollapp-fb13b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212434017700:android:b5013853ff0406679fb531",
+        "android_client_info": {
+          "package_name": "com.raymond.rollapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw5zDBQ_SUc66PRCLw0OFnx-dDfWTPAmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
